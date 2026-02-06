@@ -402,10 +402,24 @@ ___
 ___
  
 ## 6. 지오메트리 🌿
-
+#### Geometry Interface (Geometry Input)
+ - 1. 어떤 물체를 가져와서, 어떤 방식으로 배치할 지 설정할 수 있으며 여럿 배치가 가능한 모디파이어 또 일정 간격이 아닌 흩뿌림.
+  
+   * 지형 위에 나무를 심거나, 케이크 위 딸기, 나사나 리벳, 잔디 조형물 등등...
 
 
 ## 7.헤어 👩
+
+#### Deformation
+
+#### Generation
+
+#### Guides
+
+#### Utility
+
+#### Write
+
 
 ## 8. Instances 🥷
 
